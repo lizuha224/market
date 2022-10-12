@@ -1,0 +1,43 @@
+*  {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background-color: #fff;
+}
+
+.block {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.section {
+    max-width: 1440px;
+    padding-top: 36px;
+    padding-bottom: 36px;
+    padding-left: 36px;
+}
+
+.h1 {
+    font-size: 25px;
+    font-weight: bold;
+    text-align:center;
+}
+
+.h2 {
+    font-size: 16px;
+    font-weight: lighter;
+    text-align: center;
+    margin-right: 140px;
+}
+
+.basket {
+    padding-right: 46px;
+}
+
+.section_middle {
+    max-width: 1440px;
+}
